@@ -1,0 +1,3 @@
+i need to configure prisma database
+
+i need to make a register/login/dashboard page
